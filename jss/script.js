@@ -7,7 +7,7 @@ const songs = [
     },
     {
         title: "C02",
-        artist: "Artist Two",
+        artist: "Prateek Kuhad",
         src: "assets/song/song2.mp3",
         cover: "assets/img/cover2.jpg"
     },
