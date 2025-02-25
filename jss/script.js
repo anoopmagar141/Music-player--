@@ -13,7 +13,7 @@ const songs = [
     },
     {
         title: "Blue",
-        artist: "Artist Three",
+        artist: "Yung Kai",
         src: "assets/song/song3.mp3",
         cover: "assets/img/cover3.png"
     }
