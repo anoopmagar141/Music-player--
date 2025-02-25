@@ -1,7 +1,7 @@
 const songs = [
     {
         title: "Me and the Devil",
-        artist: "Artist One",
+        artist: "Soap&Skin",
         src: "assets/song/song1.mp3",
         cover: "assets/img/cover1.png"
     },
